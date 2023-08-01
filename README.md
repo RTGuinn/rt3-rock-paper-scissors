@@ -12,7 +12,7 @@ luck is challenged by the computer's random choice. Enjoy!
 
 The live website can be accessed from GitHub through the following link:
 
-// Insert Live link here
+(<https://rtguinn.github.io/rt3-rock-paper-scissors/>)
 
 ## Features
 
