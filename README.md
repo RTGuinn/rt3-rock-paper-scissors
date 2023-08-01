@@ -1,39 +1,32 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# RT's Rock, Paper Scissor Game
 
-Welcome,
+This is a basic online game of chance that provides the user with 3 options and
+the computer making a random choice to see who comes out on top.  It is meant
+to pass the time in a fun way and to envoke a sense of challenge to the user
+with the a feeling of chance to win as you would playing a slot machine.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Users of the game will make decisions based on intuition and see how their
+luck is challenged by the computer's random choice. Enjoy!
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+// Insert image of different screen sizes here.
 
-## Codeanywhere Reminders
+The live website can be accessed from GitHub through the following link:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+// Insert Live link here
 
-`python3 -m http.server`
+## Features
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- Header
+// Insert image of Header area here
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- How to Play
+// Insert image of How to Play area here
 
-`http_server`
+- Game Area
+// Insert image of Gaming area here
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- Wins/Losses Counter
+// Insert image of counters here
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+- Footer
+// Insert image of footer here
