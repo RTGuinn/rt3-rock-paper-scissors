@@ -55,3 +55,14 @@ The live website can be accessed from GitHub through the following link:
 - JS Code Quality Validation
 
 ![plot](/assets/readme_images/JScodeQuality.png)
+
+# Wireframes
+
+- Web Wireframe
+
+
+![plot](/assets/readme_images/wireframeweb.png)
+
+- Mobile Wireframe
+
+![plot](/assets/readme_images/wireframeweb.png)
