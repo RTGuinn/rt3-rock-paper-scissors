@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+
+    <!-- Favicon links -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-32x32.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>Rock Paper Scissors</title>
+</head>
+
+<body>
+
+    <!-- Heading -->
+    <h1 class="heading">Rock Paper Scissors</h1>
+
+    <!-- Rules-->
+    <button id="ruleBtn">Rules</button>
+
+    <div class="rules" id="myRules">
+        <div class="rule-content">
+            <span class="close">&times;</span>
+            <p>Rock crushes scissors, Paper covers rock and Scissors cut paper.</p>
+        </div>
+    </div>
+
+    <!-- Game Area -->
+    <div class="game-container">
+
+        <!-- Player Area -->
+        <div class="game-area">
+            <h2>Make Your Choice</h2>
+
+            <button class="btn" id="rock"><img src="assets/images/rock.png" alt="rock"></button>
+
+            <button class="btn" id="paper"><img src="assets/images/paper.png" alt="paper"></button>
+
+            <button class="btn" id="scissors"><img src="assets/images/scissor.png" alt="scissors"></button>
+        </div>
+
+
+        <!-- Computer Area -->
+        <div class="game-area">
+            <h2>Computer Choice</h2>
+
+            <div id="img"></div>
+
+            <div class="result">
+                <h2>Let's see what you got!!!</h2>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Score Area -->
+    <div class="score-area">
+        <h3 class="scores">Wins <span id="win">0</span></h3>
+        <h3 class="scores">Losses <span id="loss">0</span></h3>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">Created By: RT Guinn</div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
