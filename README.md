@@ -14,19 +14,44 @@ The live website can be accessed from GitHub through the following link:
 
 (<https://rtguinn.github.io/rt3-rock-paper-scissors/>)
 
-## Features
+# Features
 
-- Header
-// Insert image of Header area here
+- Header: 
+ Basic Heading of the game.
 
-- How to Play
-// Insert image of How to Play area here
+  ![plot](/assets/readme_images/header.png)
 
-- Game Area
-// Insert image of Gaming area here
+- How to Play:
+  Rules button, active button user can click to get the rules of the game.
 
-- Wins/Losses Counter
-// Insert image of counters here
+![plot](/assets/readme_images/rules.png)
 
-- Footer
-// Insert image of footer here
+- Game Area:
+  This area shows the gaming area for both the user and the computer.
+
+![plot](/assets/readme_images/game-area.png)
+
+- Wins/Losses Counter:
+  Shows the win and loss counters for keeping track of how many wins/losses.
+
+![plot](/assets/readme_images/win-loss.png)
+
+- Footer:
+  Shows the footer area with who created the game.
+
+![plot](/assets/readme_images/footer.png)
+
+# Validations
+
+- HTML Validation
+
+![plot](/assets/readme_images/HTML-validation.png)
+
+
+- CSS Validation
+
+![plot](/assets/readme_images/CSS-validation.png)
+
+- JS Code Quality Validation
+
+![plot](/assets/readme_images/JScodeQuality.png)
