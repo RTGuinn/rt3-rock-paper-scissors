@@ -16,53 +16,64 @@ The live website can be accessed from GitHub through the following link:
 
 # Features
 
-- Header: 
+### Header: 
  Basic Heading of the game.
 
-  ![plot](/assets/readme_images/header.png)
+![plot](/assets/readme_images/header.png)
 
-- How to Play:
+### How to Play:
   Rules button, active button user can click to get the rules of the game.
 
 ![plot](/assets/readme_images/rules.png)
 
-- Game Area:
+### Game Area:
   This area shows the gaming area for both the user and the computer.
 
 ![plot](/assets/readme_images/game-area.png)
 
-- Wins/Losses Counter:
+### Wins/Losses Counter:
   Shows the win and loss counters for keeping track of how many wins/losses.
 
 ![plot](/assets/readme_images/win-loss.png)
 
-- Footer:
+### Footer:
   Shows the footer area with who created the game.
 
 ![plot](/assets/readme_images/footer.png)
 
 # Validations
 
-- HTML Validation
+### HTML Validation
 
 ![plot](/assets/readme_images/HTML-validation.png)
 
 
-- CSS Validation
+### CSS Validation
 
 ![plot](/assets/readme_images/CSS-validation.png)
 
-- JS Code Quality Validation
+### JS Code Quality Validation
 
 ![plot](/assets/readme_images/JScodeQuality.png)
 
 # Wireframes
 
-- Web Wireframe
+### Web Wireframe
 
 
 ![plot](/assets/readme_images/wireframeweb.png)
 
-- Mobile Wireframe
+### Mobile Wireframe
 
-![plot](/assets/readme_images/wireframeweb.png)
+![plot](/assets/readme_images/wireframemobile.png)
+
+# 404 Error Page
+
+![plot](/assets/images/404.png)
+
+
+# Existing Features
+
+- Responsive Design
+- Interactive Buttons
+- Game Play
