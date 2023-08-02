@@ -85,3 +85,32 @@ The live website can be accessed from GitHub through the following link:
 ![plot](/assets/readme_images/JScodeQuality.png)
 
 
+# Technologies
+
+- HTML
+  - The structure of the website was developed using HTML as the main language.
+
+- CSS
+  - The website was styled using custom CSS in an external file.
+
+- JavaScript
+  - The website was made interactive using JavaScript in an external file.
+
+- CodeAnywhere
+  - The website was developed using CodeAnywhere IDE.
+
+- Github
+  - Source code is hosted on GitHub and deployed with Git pages.
+
+- Git
+  - Used Commit and push code during the development of the website.
+
+- Font Awesome
+  - Icons from https://flaticon.com/ were used for the player options in game.
+
+- Favicon
+  - Favicon files were created with https://favicon.io/favicon-generator/
+
+- Balsamiq
+  - Wireframes were created using https://baslamiq.com/wireframes/
+
