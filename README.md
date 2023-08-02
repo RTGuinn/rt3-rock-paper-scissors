@@ -14,6 +14,15 @@ The live website can be accessed from GitHub through the following link:
 
 <https://rtguinn.github.io/rt3-rock-paper-scissors/>
 
+# HUGE NOTE ABOUT THIS PROJECTS COMMIT MESSAGES
+
+I want to make note of the commit messages for this project.
+
+During the previos workspace for this project, I ran into a problem pushing to Github.  Authentication was being required in the terminal and I attempted to verify multiple times without success.  Finally, after talking with other students in Slack and getting suggestions of what to do, I finally came to the conclusion that I had to create a new workspace and transfer everything from the broken workspace to the this one.  So what I did was copy and paste the index.html, style.css and the script.js along with the 404.html and the original readme files to my VS Code, Opened the new workspace (this one) and copy/paste each file to this one.  I committed after each file was pasted and also made a note in the commit message that it was copied from the broken project workspace.  I will to leave a link to the broken workspace below this note so that the original commit messages for the index.html, style.css and script.js files can be seen and gone over for anyone who wants or needs to see them.  This was an unfortunate event that happened towards the end of the project and due to not having enough time to find the proper transfering of the information to a new workspace had to do it this way.  I am sorry for the mess and confusion, but I will look into this for future problematic errors that may occur in this way.  Thank you and I hope you enjoy the game I have created.
+
+Here is the link to the previous workspace:
+<https://github.com/RTGuinn/rt2-rock-paper-scissor>
+
 # Features
 
 ### Header
