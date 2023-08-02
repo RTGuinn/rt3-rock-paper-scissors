@@ -12,7 +12,7 @@ luck is challenged by the computer's random choice. Enjoy!
 
 The live website can be accessed from GitHub through the following link:
 
-(<https://rtguinn.github.io/rt3-rock-paper-scissors/>)
+<https://rtguinn.github.io/rt3-rock-paper-scissors/>
 
 # Features
 
@@ -166,10 +166,32 @@ Testing was performed on the button to make sure it functioned properly.
 
 Buttons for user selection were tested by clicking on them and each giving feedback to the computer area selection
 
-for what computer chose and proper comparison was outputted to the computer area for player to see what they chose and 
+for what computer chose and proper comparison was outputted to the computer area for player to see what they chose and
 
 the computer chose and who won that round.
 
 # Unfixed Bugs
 
 The website worked on all devices and no bugs were found that needed to be fixed.
+
+# Deployment
+
+The website was deployed using Github pages.
+
+- Steps to deploy
+  i. In GitHub repository, go to Setting tab
+  ii. From the Branch drop-down menu section, select main
+  iii. After saving from step 2, the page will be deployed and a live link will display after a few moments.
+
+A live link can be found here - <https://rtguinn.github.io/rt3-rock-paper-scissors/>
+
+# Credits
+
+## Content
+
+- This website began following the Love Maths Project from Code Institute until it came into its own form.
+- How to Modals was referenced for the rules button as per suggested from mentor Gareth.
+- Jon Duckett HTML and CSS, JavaScript and JQuery were used as reference with both index and script.js files throughout the project.
+- Slack and StackOverflow were both used to help with problems and situations that were problematic throughout the project.
+- Icons for the User selection images were taken from Flaticon icons.
+- Icon from Font Awesome was used for the tab icon.
