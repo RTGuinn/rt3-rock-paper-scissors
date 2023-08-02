@@ -115,3 +115,24 @@ The live website can be accessed from GitHub through the following link:
 
 - Balsamiq
   - Wireframes were created using <https://baslamiq.com/wireframes/>
+
+# Testing
+
+### Responsiveness
+
+All pages were tested to make sure responsiveness on different screen sizes
+functioned and worked properly on Chrome, Safari and Windows.
+
+- Steps to test:
+  
+  i. Open browser and navigate to <https://rtguinn.github.io/rt3-rock-paper-scissors/>
+
+  ii. Open developer tools (right click and inspect)
+  
+  iii. Set to responsive and decrease to 480px
+  
+  iv. click and drag responsive window to max width
+  
+  - Expected: Website responds on all screen sizes and no overlapping elements.
+  - Actual: Website acted as it should and no problems were found.
+  - Website was aslo opened and tested on iphone 13plus max with no problems.
