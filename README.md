@@ -153,3 +153,19 @@ Testing was to ensure the following criteria were met:
 # Lighthouse Testing
 
 ![plot](/assets/readme_images/LighthouseTest.png)
+
+# Functional Testing
+
+## Rules Button
+
+Testing was performed on the button to make sure it functioned properly.
+
+- Button was clicked and brought up rules that it was supposed to and closed properly as well.
+
+## User Gaming Area
+
+Buttons for user selection were tested by clicking on them and each giving feedback to the computer area selection
+
+for what computer chose and proper comparison was outputted to the computer area for player to see what they chose and 
+
+the computer chose and who won that round.
