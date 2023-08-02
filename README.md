@@ -149,3 +149,7 @@ Testing was to ensure the following criteria were met:
 - Heading levels are not missing or skipped to ensure importance of content is correctly outputted to user.
 - Everything contained within landmarks to ensure ease of use for assistive technology.
 - All images have alternative text and titles so it is read out on a screen reader.
+
+# Lighthouse Testing
+
+![plot](/assets/readme_images/LighthouseTest.png)
