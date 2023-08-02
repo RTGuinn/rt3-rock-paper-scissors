@@ -128,3 +128,11 @@ h1 {
 .footer {
     color: ivory;
 }
+
+/* Media query for small screens and mobile devices */
+@media (max-width: 625px;) {
+
+    h1 {
+        font-size: 2em;
+    }
+}
