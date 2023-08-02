@@ -136,3 +136,16 @@ functioned and worked properly on Chrome, Safari and Windows.
   - Expected: Website responds on all screen sizes and no overlapping elements.
   - Actual: Website acted as it should and no problems were found.
   - Website was aslo opened and tested on iphone 13plus max with no problems.
+
+# Accessbiility
+
+Wave Accessibility was used at the end of website development to check for
+any aid accessibility testing problems and all were corrected.
+
+Testing was to ensure the following criteria were met:
+
+- All pages have aria-labels and associated labels so it is read out with a screen reader.
+- Color contrasts meet a minimum ratio
+- Heading levels are not missing or skipped to ensure importance of content is correctly outputted to user.
+- Everything contained within landmarks to ensure ease of use for assistive technology.
+- All images have alternative text and titles so it is read out on a screen reader.
