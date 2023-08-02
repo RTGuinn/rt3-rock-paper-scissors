@@ -169,3 +169,7 @@ Buttons for user selection were tested by clicking on them and each giving feedb
 for what computer chose and proper comparison was outputted to the computer area for player to see what they chose and 
 
 the computer chose and who won that round.
+
+# Unfixed Bugs
+
+The website worked on all devices and no bugs were found that needed to be fixed.
