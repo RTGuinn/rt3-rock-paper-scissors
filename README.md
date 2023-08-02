@@ -16,27 +16,32 @@ The live website can be accessed from GitHub through the following link:
 
 # Features
 
-### Header: 
+### Header
+
  Basic Heading of the game.
 
 ![plot](/assets/readme_images/header.png)
 
-### How to Play:
+### How to Play
+
   Rules button, active button user can click to get the rules of the game.
 
 ![plot](/assets/readme_images/rules.png)
 
-### Game Area:
+### Game Area
+
   This area shows the gaming area for both the user and the computer.
 
 ![plot](/assets/readme_images/game-area.png)
 
-### Wins/Losses Counter:
+### Wins/Losses Counter
+
   Shows the win and loss counters for keeping track of how many wins/losses.
 
 ![plot](/assets/readme_images/win-loss.png)
 
-### Footer:
+### Footer
+
   Shows the footer area with who created the game.
 
 ![plot](/assets/readme_images/footer.png)
@@ -68,13 +73,11 @@ The live website can be accessed from GitHub through the following link:
 
 ![plot](/assets/readme_images/wireframemobile.png)
 
-
 # Validations
 
 ### HTML Validation
 
 ![plot](/assets/readme_images/HTML-validation.png)
-
 
 ### CSS Validation
 
@@ -83,7 +86,6 @@ The live website can be accessed from GitHub through the following link:
 ### JS Code Quality Validation
 
 ![plot](/assets/readme_images/JScodeQuality.png)
-
 
 # Technologies
 
@@ -106,11 +108,10 @@ The live website can be accessed from GitHub through the following link:
   - Used Commit and push code during the development of the website.
 
 - Font Awesome
-  - Icons from https://flaticon.com/ were used for the player options in game.
+  - Icons from <https://flaticon.com/> were used for the player options in game.
 
 - Favicon
-  - Favicon files were created with https://favicon.io/favicon-generator/
+  - Favicon files were created with <https://favicon.io/favicon-generator/>
 
 - Balsamiq
-  - Wireframes were created using https://baslamiq.com/wireframes/
-
+  - Wireframes were created using <https://baslamiq.com/wireframes/>
