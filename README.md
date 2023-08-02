@@ -8,7 +8,7 @@ with the a feeling of chance to win as you would playing a slot machine.
 Users of the game will make decisions based on intuition and see how their
 luck is challenged by the computer's random choice. Enjoy!
 
-// Insert image of different screen sizes here.
+![plot](/assets/readme_images/Responsive.png)
 
 The live website can be accessed from GitHub through the following link:
 
