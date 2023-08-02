@@ -41,6 +41,34 @@ The live website can be accessed from GitHub through the following link:
 
 ![plot](/assets/readme_images/footer.png)
 
+# Existing Features
+
+- Responsive Design
+- Interactive Buttons
+- Game Play
+
+# Future Features to be added
+
+- Greeting page before going into game
+- Multi-player option to be added
+- Computer gaming area to show card chosen with message
+- Table of Contents to be added with links to each section in readme.md
+
+# 404 Error Page
+
+![plot](/assets/images/404.png)
+
+# Design
+
+### Web Wireframe
+
+![plot](/assets/readme_images/wireframeweb.png)
+
+### Mobile Wireframe
+
+![plot](/assets/readme_images/wireframemobile.png)
+
+
 # Validations
 
 ### HTML Validation
@@ -56,24 +84,4 @@ The live website can be accessed from GitHub through the following link:
 
 ![plot](/assets/readme_images/JScodeQuality.png)
 
-# Wireframes
 
-### Web Wireframe
-
-
-![plot](/assets/readme_images/wireframeweb.png)
-
-### Mobile Wireframe
-
-![plot](/assets/readme_images/wireframemobile.png)
-
-# 404 Error Page
-
-![plot](/assets/images/404.png)
-
-
-# Existing Features
-
-- Responsive Design
-- Interactive Buttons
-- Game Play
