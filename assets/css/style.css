@@ -130,7 +130,7 @@ h1 {
 }
 
 /* Media query for small screens and mobile devices */
-@media (max-width: 625px;) {
+@media (max-width: 480px) {
 
     h1 {
         font-size: 2em;
